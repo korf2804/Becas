@@ -1,0 +1,48 @@
+[29-Feb-2016 22:55:07 America/Santiago] PHP Parse error:  syntax error, unexpected ':' in /home/cfsansebastian/public_html/application/config/config.php on line 26
+[29-Feb-2016 22:55:12 America/Santiago] PHP Parse error:  syntax error, unexpected ':' in /home/cfsansebastian/public_html/application/config/config.php on line 26
+[08-Mar-2016 09:39:10 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/cfsansebastian/public_html/application/controllers/emails.php on line 32
+[08-Mar-2016 09:39:12 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/cfsansebastian/public_html/application/controllers/emails.php on line 32
+[08-Mar-2016 09:39:13 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/cfsansebastian/public_html/application/controllers/emails.php on line 32
+[08-Mar-2016 09:40:20 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/cfsansebastian/public_html/application/controllers/emails.php on line 32
+[08-Mar-2016 09:40:22 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/cfsansebastian/public_html/application/controllers/emails.php on line 32
+[08-Mar-2016 09:40:51 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/cfsansebastian/public_html/application/controllers/emails.php on line 32
+[08-Mar-2016 09:41:05 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/cfsansebastian/public_html/application/controllers/emails.php on line 32
+[08-Mar-2016 09:41:08 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/cfsansebastian/public_html/application/controllers/emails.php on line 32
+[08-Mar-2016 10:08:38 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/cfsansebastian/public_html/application/controllers/emails.php on line 89
+[08-Mar-2016 10:09:37 America/Santiago] PHP Fatal error:  Call to a member function set_flashdata() on a non-object in /home/cfsansebastian/public_html/application/controllers/emails.php on line 79
+[08-Mar-2016 10:18:41 America/Santiago] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/cfsansebastian/public_html/application/views/front_end/emails.php on line 24
+[08-Mar-2016 10:49:08 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/cfsansebastian/public_html/application/controllers/emails.php on line 89
+[08-Mar-2016 10:49:11 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/cfsansebastian/public_html/application/controllers/emails.php on line 89
+[08-Mar-2016 10:49:33 America/Santiago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cfsansebastian/public_html/application/controllers/emails.php on line 87
+[08-Mar-2016 11:26:35 America/Santiago] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/cfsansebastian/public_html/application/config/email.php on line 32
+[22-Mar-2016 16:20:33 America/Santiago] PHP Fatal error:  Call to a member function lista_articulos() on a non-object in /home/cfsansebastian/public_html/application/controllers/lista.php on line 11
+[22-Mar-2016 16:21:53 America/Santiago] PHP Fatal error:  Call to undefined method Lista_model::lista_articulos() in /home/cfsansebastian/public_html/application/controllers/lista.php on line 11
+[22-Mar-2016 16:21:58 America/Santiago] PHP Fatal error:  Call to undefined method Lista_model::lista_articulos() in /home/cfsansebastian/public_html/application/controllers/lista.php on line 11
+[22-Mar-2016 16:22:01 America/Santiago] PHP Fatal error:  Call to undefined method Lista_model::lista_articulos() in /home/cfsansebastian/public_html/application/controllers/lista.php on line 11
+[22-Mar-2016 16:35:12 America/Santiago] PHP Fatal error:  Call to undefined method Lista_model::lista_articulos() in /home/cfsansebastian/public_html/application/controllers/lista.php on line 11
+[25-Mar-2016 22:18:29 America/Santiago] PHP Fatal error:  Call to undefined function form_open() in /home/cfsansebastian/public_html/application/views/front_end/consulta_becas.php on line 3
+[25-Mar-2016 22:18:34 America/Santiago] PHP Fatal error:  Call to undefined function form_open() in /home/cfsansebastian/public_html/application/views/front_end/consulta_becas.php on line 3
+[10-Apr-2016 23:12:38 America/Santiago] PHP Fatal error:  Call to a member function result() on a non-object in /home/cfsansebastian/public_html/application/views/front_end/operario/listas.php on line 15
+[10-Apr-2016 23:12:49 America/Santiago] PHP Fatal error:  Call to a member function result() on a non-object in /home/cfsansebastian/public_html/application/views/front_end/operario/listas.php on line 15
+[19-Apr-2016 12:46:48 America/Santiago] PHP Fatal error:  Call to undefined function form_error() in /home/cfsansebastian/public_html/application/views/front_end/operario/ingreso_becas.php on line 9
+[19-Apr-2016 14:10:14 America/Santiago] PHP Fatal error:  Call to undefined function form_error() in /home/cfsansebastian/public_html/application/views/front_end/operario/ingreso_becas.php on line 9
+[19-Apr-2016 14:12:42 America/Santiago] PHP Fatal error:  Call to undefined function form_error() in /home/cfsansebastian/public_html/application/views/front_end/operario/ingreso_becas.php on line 9
+[19-Apr-2016 14:12:45 America/Santiago] PHP Fatal error:  Call to undefined function form_error() in /home/cfsansebastian/public_html/application/views/front_end/operario/ingreso_becas.php on line 9
+[19-Apr-2016 14:13:05 America/Santiago] PHP Fatal error:  Call to undefined function form_error() in /home/cfsansebastian/public_html/application/views/front_end/operario/ingreso_becas.php on line 9
+[19-Apr-2016 14:13:12 America/Santiago] PHP Fatal error:  Call to undefined function form_error() in /home/cfsansebastian/public_html/application/views/front_end/operario/ingreso_becas.php on line 9
+[19-Apr-2016 14:15:32 America/Santiago] PHP Fatal error:  Call to undefined function form_error() in /home/cfsansebastian/public_html/application/views/front_end/operario/ingreso_becas.php on line 9
+[19-Apr-2016 14:21:07 America/Santiago] PHP Fatal error:  Call to undefined function form_error() in /home/cfsansebastian/public_html/application/views/front_end/operario/ingreso_becas.php on line 9
+[19-Apr-2016 14:24:53 America/Santiago] PHP Fatal error:  Call to undefined function form_error() in /home/cfsansebastian/public_html/application/views/front_end/operario/ingreso_becas.php on line 9
+[19-Apr-2016 14:25:48 America/Santiago] PHP Fatal error:  Call to undefined function form_error() in /home/cfsansebastian/public_html/application/views/front_end/operario/ingreso_becas.php on line 9
+[19-Apr-2016 14:25:50 America/Santiago] PHP Fatal error:  Call to undefined function form_error() in /home/cfsansebastian/public_html/application/views/front_end/operario/ingreso_becas.php on line 9
+[19-Apr-2016 14:25:52 America/Santiago] PHP Fatal error:  Call to undefined function form_error() in /home/cfsansebastian/public_html/application/views/front_end/operario/ingreso_becas.php on line 9
+[03-Oct-2017 15:10:19 America/Santiago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/cfsansebastian/public_html/application/views/front_end/jefatura/cierre_actual.php on line 57
+[03-Oct-2017 15:10:49 America/Santiago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/cfsansebastian/public_html/application/views/front_end/jefatura/cierre_actual.php on line 57
+[03-Oct-2017 15:12:34 America/Santiago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/cfsansebastian/public_html/application/views/front_end/jefatura/cierre_actual.php on line 57
+[03-Oct-2017 15:12:39 America/Santiago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/cfsansebastian/public_html/application/views/front_end/jefatura/cierre_actual.php on line 57
+[03-Oct-2017 15:17:34 America/Santiago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/cfsansebastian/public_html/application/views/front_end/jefatura/cierre_actual.php on line 57
+[03-Oct-2017 15:20:59 America/Santiago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/cfsansebastian/public_html/application/views/front_end/jefatura/cierre_actual.php on line 57
+[03-Oct-2017 15:58:44 America/Santiago] PHP Parse error:  syntax error, unexpected '$F_montoActual' (T_VARIABLE), expecting ':' in /home/cfsansebastian/public_html/application/views/front_end/jefatura/cierre_actual.php on line 44
+[04-Oct-2017 15:46:45 America/Santiago] PHP Parse error:  syntax error, unexpected '$I_MontoAnterior' (T_VARIABLE) in /home/cfsansebastian/public_html/application/views/front_end/jefatura/cierre_actual.php on line 61
+[04-Oct-2017 15:53:03 America/Santiago] PHP Fatal error:  Call to undefined method stdClass::result() in /home/cfsansebastian/public_html/application/views/front_end/jefatura/cierre_actual.php on line 53
+[04-Oct-2017 15:53:37 America/Santiago] PHP Fatal error:  Call to undefined method stdClass::result() in /home/cfsansebastian/public_html/application/views/front_end/jefatura/cierre_actual.php on line 53
